@@ -96,3 +96,5 @@ forecast
 figure = m.plot(forecast, xlabel='Date', ylabel = 'Confirmed_cases')
 
 figure2 = m.plot_components(forecast)
+
+# Submitted in Kaggle competition
